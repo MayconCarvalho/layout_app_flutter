@@ -1,6 +1,6 @@
 # myapp
 
-Um novo projeto Flutter.
+Um projeto Flutter seguindo tutorial da documentação.
 
 ### Getting Started
 
